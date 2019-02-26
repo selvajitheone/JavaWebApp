@@ -48,9 +48,9 @@
       <id>124</id>
       <url>http://localhost:8182/nexus/content/repositories/124</url>
      </repository>
-      <snapshotRepository>
-        <id>snapshots</id>
-        <url>http://localhost:8182/nexus/content/repositories/snapshots</url>
-      </snapshotRepository>
+     <snapshotRepository>
+        <id>123</id>
+        <url>http://localhost:8182/nexus/content/repositories/123</url>
+    </snapshotRepository>
 </distributionManagement>
 </project>
