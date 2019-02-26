@@ -45,14 +45,12 @@
   </build>
   <distributionManagement>
      <repository>
-         <id>deployment</id>
-         <name>Internal Releases</name>
-         <url>http://localhost:8182/nexus/content/repositories/123/</url>
-      </repository>
+      <id>124</id>
+      <url>http://localhost:8182/nexus/content/repositories/124</url>
+     </repository>
       <snapshotRepository>
-         <id>deployment</id>
-         <name>Snapshot Releases</name>
-         <url>http://localhost:8182/nexus/content/repositories/123/</url>
+        <id>snapshots</id>
+        <url>http://localhost:8182/nexus/content/repositories/snapshots</url>
       </snapshotRepository>
 </distributionManagement>
 </project>
