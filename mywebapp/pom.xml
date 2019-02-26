@@ -43,4 +43,16 @@
 </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+     <repository>
+         <id>deployment</id>
+         <name>Internal Releases</name>
+         <url>http://localhost:8182/nexus/content/repositories/123/</url>
+      </repository>
+      <snapshotRepository>
+         <id>deployment</id>
+         <name>Snapshot Releases</name>
+         <url>http://localhost:8182/nexus/content/repositories/123/</url>
+      </snapshotRepository>
+</distributionManagement>
 </project>
