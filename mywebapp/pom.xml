@@ -45,12 +45,12 @@
   </build>
   <distributionManagement>
      <repository>
-      <id>124</id>
-      <url>http://localhost:8182/nexus/content/repositories/124</url>
+      <id>mav-sq-nex</id>
+      <url>http://localhost:8182/nexus/content/repositories/mav-sq-nex</url>
      </repository>
      <snapshotRepository>
-        <id>123</id>
-        <url>http://localhost:8182/nexus/content/repositories/123</url>
+        <id>mav-sq-nex</id>
+        <url>http://localhost:8182/nexus/content/repositories/mav-sq-nex</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
