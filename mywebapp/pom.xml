@@ -49,8 +49,8 @@
       <url>http://localhost:8182/nexus/content/repositories/mav-sq-nex</url>
      </repository>
      <snapshotRepository>
-        <id>mav-sq-nex</id>
-        <url>http://localhost:8182/nexus/content/repositories/mav-sq-nex</url>
+        <id>mvn-sq-nex</id>
+        <url>http://localhost:8182/nexus/content/repositories/mvn-sq-nex-ss</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
